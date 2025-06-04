@@ -1,4 +1,4 @@
-SAMPLE_RATE        = 6000.0  # 8Khz means it plays 8000 samples per second
+SAMPLE_RATE        = 8000.0  # 8Khz means it plays 8000 samples per second
 PLAYBACK_SPEED     = 1
 N_ITER             = (SAMPLE_RATE / PLAYBACK_SPEED).to_i
 # this is just a base frequency table
